@@ -1,7 +1,7 @@
 # Frontend gerado no Lovable
 https://build-my-spark-25.lovable.app/
 
-#Telas
+# Telas
 ## Lista de tickets
 - Exibe:
   - ID
