@@ -24,7 +24,7 @@ https://build-my-spark-25.lovable.app/
   - Erro.
 
 ## Criar ticket
-- Permite criar ticket;
+- Permite criar um ticket;
 - Formulário validado;
 - Ao salvar:
   - Envia POST para o Xano;
