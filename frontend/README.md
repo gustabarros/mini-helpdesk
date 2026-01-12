@@ -34,7 +34,7 @@ https://build-my-spark-25.lovable.app/
 - Botão de excluir com confirmação
 
 ## Edição de ticket
-- Permite alterar
+- Permite alterar:
   - Título
   - Descrição
   - Categoria
