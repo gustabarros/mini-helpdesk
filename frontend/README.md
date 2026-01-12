@@ -4,40 +4,41 @@ https://build-my-spark-25.lovable.app/
 # Telas
 ## Lista de tickets
 - Exibe:
-  - ID
-  - Título
-  - Solicitante (Nome/Email)
-  - Categoria
-  - Prioridade
-  - Status
-  - Data de criação
+  - ID;
+  - Título;
+  - Solicitante (Nome/Email);
+  - Categoria;
+  - Prioridade;
+  - Status;
+  - Data de criação.
 
 - Contém:
-  - Paginação
-  - Busca (q)
-  - Filtros
+  - Paginação;
+  - Busca (q);
+  - Filtros;
+  - Classificação/ordenação.
 
 - Estados implementados:
-  - Carregando
-  - Lista vazia
-  - Erro
+  - Carregando;
+  - Lista vazia;
+  - Erro.
 
 ## Criar ticket
-- Permite criar ticket
-- Formulário validado
+- Permite criar ticket;
+- Formulário validado;
 - Ao salvar:
-  - Envia POST para o Xano
-  - Retorna para a lista
-  - Exibe mensagem simples de sucesso
+  - Envia POST para o Xano;
+  - Retorna para a lista;
+  - Exibe mensagem simples de sucesso.
 
 ## Visualizar ticket
-- Exibe campos completos do ticket
-- Botão de excluir com confirmação
+- Exibe campos completos do ticket;
+- Botão de excluir com confirmação.
 
 ## Edição de ticket
 - Permite alterar:
-  - Título
-  - Descrição
-  - Categoria
-  - Prioridade
-  - Status
+  - Título;
+  - Descrição;
+  - Categoria;
+  - Prioridade;
+  - Status.
