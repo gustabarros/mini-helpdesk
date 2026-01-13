@@ -15,6 +15,9 @@ Desafio técnico — Aplicação completa para um Mini Helpdesk, permitindo regi
 - Visualização em detalhes do chamado;
 - Opção de exclusão do chamado com confirmação.
 
+### Vídeo mostrando o fluxo E2E:
+...
+
 ## 🔌Endpoints da API
 ```bash
 GET /ticket - Listagem de tickets com paginação busca e filtros
