@@ -1,7 +1,13 @@
-# Backend construído no Xano
+# 🏗️ Backend construído no Xano
 Base URL da API: https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu
 
-## Endpoints
+- Tabela ticket no Xano DB:
+<img src="https://github.com/gustabarros/mini-helpdesk/blob/main/backend/tabela.png" alt="Tabela ticket">
+
+- Endpoints (CRUD)
+<img src="https://github.com/gustabarros/mini-helpdesk/blob/main/backend/endpoints.png" alt="Endpoints">
+
+## 🔌Endpoints
 ### GET /ticket
 Retorna uma lista paginada de tickets (com paginação, busca, filtros e classificação/ordenação).
 
