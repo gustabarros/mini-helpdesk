@@ -42,39 +42,19 @@ DELETE /ticket/{ticket_id} - Remoção de um ticket
 ## 🧪 Exemplos curl
 - GET /ticket
 ```bash
-curl -X 'GET' \
-'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket' \
--H 'Content-Type: application/json'
 ```
 - GET /ticket/{ticket_id}
 ```bash
-curl -X 'GET' \
-'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket/1' \
--H 'Content-Type: application/json'
 ```
 - POST /ticket
 ```bash
-curl -X 'POST' \
-'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket' \
--H 'Content-Type: application/json' \
---data '{"title":"Computador não liga","description":"Equipamento não responde ao botão power","category":"Hardware","priority":"Alta","requester_name":"Gustavo Barros","requester_email":"gustavo.barros@empresa.com"}'
 ```
 - PUT /ticket/{ticket_id}
 ```bash
-curl -X 'PUT' \
-'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket/1' \
--H 'Content-Type: application/json' \
---data '{"ticket_id":1,"title":"Computador não liga","description":"Equipamento não responde ao botão power","category":"Hardware","priority":"Alta","status":"Resolvido","updated_at":"now"}'
 ```
 - DELETE /ticket/{ticket_id}
 ```bash
-curl -X 'DELETE' \
-'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket/1' \
--H 'Content-Type: application/json' \
---data '{"ticket_id":1}'
 ```
-
-
 
 ## 🧠 Decisões técnicas
 - Paginação implementada no backend para evitar sobrecarga do frontend;
