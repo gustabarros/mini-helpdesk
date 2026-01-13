@@ -102,9 +102,17 @@ Cria um novo ticket com validações obrigatórias.
 - Exemplo de request (curl):
 ```bash
 curl -X 'POST' \
-'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket' \
--H 'Content-Type: application/json' \
---data '{"title":"Computador não liga","description":"Equipamento não responde ao botão power","category":"Hardware","priority":"Alta","requester_name":"Gustavo Barros","requester_email":"gustavo.barros@empresa.com"}'
+  'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "title": "Computador não liga",
+  "description": "Equipamento não responde ao botão power",
+  "category": "Hardware",
+  "priority": "Alta",
+  "requester_name": "Gustavo Barros",
+  "requester_email": "gustavo.barros@empresa.com"
+}'
 ```
 
 - Exemplo de response:
@@ -129,9 +137,17 @@ Atualiza campos do ticket — título, descrição, categoria, prioridade ou sta
 - Exemplo de request (curl):
 ```bash
 curl -X 'PUT' \
-'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket/1' \
--H 'Content-Type: application/json' \
---data '{"ticket_id":1,"title":"lemonverbena kale","description":"jambul arugula","category":"Acesso","priority":"Alta","status":"Resolvido","updated_at":"now"}'
+  'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket/1' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "title": "cashewapple cabbage",
+  "description": "lemon wampi",
+  "category": "Hardware",
+  "priority": "Baixa",
+  "status": "Resolvido",
+  "updated_at": now
+}'
 ```
 
 - Exemplo de response:
@@ -156,8 +172,7 @@ Remove um ticket
 - Exemplo de request (curl):
 ```bash
 curl -X 'DELETE' \
-'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket/20' \
--H 'Content-Type: application/json' \
---data '{"ticket_id":20}'
+  'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket/21' \
+  -H 'accept: application/json'
 ```
 
