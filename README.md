@@ -3,12 +3,12 @@
 ## 📌 Visão Geral
 Desafio técnico — Aplicação completa para um Mini Helpdesk, permitindo registrar e gerenciar chamados internos de TI.
 
-### 🏗️ <a href="https://github.com/gustabarros/mini-helpdesk/blob/main/backend/README.md">Backend construído no Xano</a>
+### 🏗️ <a href="https://github.com/gustabarros/mini-helpdesk/blob/main/backend">Backend construído no Xano</a>
 - Banco de dados contendo tickets;
 - Endpoints com validações, paginação e filtros;
 - Estrutura CRUD com GET, POST, PUT e DELETE.
 
-### 🖥️ <a href="https://github.com/gustabarros/mini-helpdesk/blob/main/frontend/README.md">Frontend gerado com Lovable</a>
+### 🖥️ <a href="https://github.com/gustabarros/mini-helpdesk/blob/main/frontend">Frontend gerado com Lovable</a>
 - Lista de chamados com paginação, busca e filtros;
 - Formulário de criação de chamado;
 - Tela de edição de chamado;
