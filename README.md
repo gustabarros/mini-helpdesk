@@ -37,7 +37,7 @@ DELETE /ticket/{ticket_id} - Remoção de um ticket
   - Clique para expandir o endpoint que deseja testar;
   - Clique em "Try it out";
   - Preencha os campos;
-  - Clique em execute.
+  - Clique em "execute".
 
 - Testar o frontend:
   - Abra o app: https://mini-helpdesk.lovable.app/
