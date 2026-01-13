@@ -32,7 +32,13 @@ DELETE /ticket/{ticket_id} - Remoção de um ticket
 ```
 
 ## ▶️ Como testar
-- Testar:
+- Testando o backend:
+  - Acesse: https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu
+  - Clique para expandir o endpoint que deseja testar;
+  - Clique em "Try it out";
+  - Preencha os campos;
+  - Clique em execute.
+
 - Testar o frontend:
   - Abra o app: https://mini-helpdesk.lovable.app/
 
