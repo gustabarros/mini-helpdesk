@@ -91,6 +91,7 @@ curl -X 'DELETE' \
   'https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu/ticket/21' \
   -H 'accept: application/json'
 ```
+
 ## 🧠 Decisões técnicas
 - Paginação implementada no backend para evitar sobrecarga do frontend;
 - Debounce implementado para controlar a frequência de eventos;
