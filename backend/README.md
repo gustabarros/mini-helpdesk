@@ -4,7 +4,7 @@ Base URL da API: https://x8ki-letl-twmt.n7.xano.io/api:edxsOKeu
 - Tabela ticket no Xano DB:
 <img src="https://github.com/gustabarros/mini-helpdesk/blob/main/backend/tabela.png" alt="Tabela ticket">
 
-- Endpoints (CRUD)
+- Endpoints (CRUD):
 <img src="https://github.com/gustabarros/mini-helpdesk/blob/main/backend/endpoints.png" alt="Endpoints">
 
 ## 🔌Endpoints
