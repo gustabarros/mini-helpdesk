@@ -16,7 +16,7 @@ Desafio técnico — Aplicação completa para um Mini Helpdesk, permitindo regi
 - Opção de exclusão do chamado com confirmação.
 
 ### Vídeo mostrando o fluxo E2E:
-...
+http://bit.ly/3YGgmSf
 
 ## 🔌Endpoints da API
 ```bash
