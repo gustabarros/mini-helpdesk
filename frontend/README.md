@@ -54,3 +54,9 @@ https://build-my-spark-25.lovable.app/
   - Status.
 
 <img src="https://github.com/gustabarros/mini-helpdesk/blob/main/frontend/edi%C3%A7%C3%A3o.png" alt="Editar ticket">
+
+## 🗑️ Remover ticket
+- Exclusão de ticket com confirmação.
+
+<img src="https://github.com/gustabarros/mini-helpdesk/blob/main/frontend/exclus%C3%A3o.png" alt="Remover ticket">
+
