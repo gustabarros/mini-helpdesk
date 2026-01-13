@@ -1,5 +1,5 @@
 # 🖥️ Frontend gerado no Lovable
-https://build-my-spark-25.lovable.app/
+https://mini-helpdesk.lovable.app/
 
 # Telas:
 ## 🧾 Lista de tickets
