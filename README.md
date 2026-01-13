@@ -34,7 +34,7 @@ DELETE /ticket/{ticket_id} - Remoção de um ticket
 ## ▶️ Como testar
 - Testar:
 - Testar o frontend:
-  - Abra o app: https://build-my-spark-25.lovable.app/
+  - Abra o app: https://mini-helpdesk.lovable.app/
 
 ## 🧪 Exemplos curl
 - GET /ticket
