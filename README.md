@@ -32,10 +32,7 @@ DELETE /ticket/{ticket_id} - Remoção de um ticket
 ```
 
 ## ▶️ Como testar
-- Testar via Insomnia:
-  - Importe os endpoints do Xano ou crie manualmente;
-  - Configure a variável;
-  - Execute os métodos CRUD usando os exemplos deste README.
+- Testar:
 - Testar o frontend:
   - Abra o app: https://build-my-spark-25.lovable.app/
 
