@@ -1,7 +1,7 @@
 # 🖥️ Frontend gerado no Lovable
 https://mini-helpdesk.lovable.app/
 
-Código exportado do Lovable: https://github.com/gustabarros/lovable-export
+Código exportado do Lovable: https://github.com/gustabarros/mini-helpdesk-lovable-export
 
 # Telas:
 ## 🧾 Lista de tickets
