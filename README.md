@@ -15,7 +15,7 @@ Desafio técnico — Aplicação completa para um Mini Helpdesk, permitindo regi
 - Visualização em detalhes do chamado;
 - Opção de exclusão do chamado com confirmação.
 
-### Vídeo mostrando o fluxo E2E:
+### 🎞️ Vídeo mostrando o fluxo E2E:
 http://bit.ly/3YGgmSf
 
 ## 🔌Endpoints da API
